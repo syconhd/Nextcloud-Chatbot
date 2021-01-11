@@ -1,4 +1,4 @@
-# nexcloudchatbot
+# Nextcloud Chatbot
 Mit diesem bot könnt ihr automatisch Nachrichten via Nextcloud verschicken.
 
 Installiert dazu Python 3.
