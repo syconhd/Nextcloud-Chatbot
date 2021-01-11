@@ -8,7 +8,7 @@ browser  = webdriver.Chrome(ChromeDriverManager().install())
 
 
 username = "msfaya"
-passwort = "r6503"
+passwort = "r0000"
 
 nachricht = "Hallo, ich bin anwesend"
 sendezeitStunde = 7
@@ -18,12 +18,12 @@ sendezeitMinute = 24
 
 #Sendeempfaenger (chat-URL)
 
-Monday = "https://ncc.gymwm.de/call/ta45sknh"
+Monday = "https://ncc.gymwm.de/call/ta45sknh" # zb: Herr Wolthius
 Tuesday = ""
 Wednesday = "https://ncc.gymwm.de/call/ta45sknh" 
 Thursday= ""
 Friday = ""
-Saturday = "https://ncc.gymwm.de/call/qd65kx3i"
+Saturday = "https://ncc.gymwm.de/call/qd65kx3i" # Akif Samstags
 Sunday = "https://ncc.gymwm.de/call/sduaye5p"
 
 empfaenger=""
