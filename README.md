@@ -4,8 +4,8 @@ Mit diesem bot könnt ihr automatisch Nachrichten via Nextcloud verschicken.
 Installiert dazu Python 3.
 Öffnet eure Kommandozeile und gebt folgende Befehle aus:
 
-$ pip3 install selenium
-$ pip3 install webdriver_manager
+$ pip3 install selenium <br>
+$ pip3 install webdriver_manager<br>
 
 (Beim Windows das "$" einfach weglassen)
 
@@ -14,7 +14,7 @@ Zusätzlich müsst Ihr die Chat URL für den jeweiligen Tag abgeben.
 
 Anschließend führt ihr folgende Befehle in eure Komamandozeile aus:
 
-$ cd [Hier das Verzeichnis in dem ihr die Python Datei gespeichert habt]
+$ cd [Hier das Verzeichnis in dem ihr die Python Datei gespeichert habt] <br>
 $ python3 nccbot.py
 
 (Beim Windows das "$" einfach weglassen)
